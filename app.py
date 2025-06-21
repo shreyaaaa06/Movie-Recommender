@@ -6,7 +6,7 @@ import threading
 app = Flask(__name__)
 
 # Replace with your TMDB API key
-API_KEY = "b2d4d0dcae3d71261a4b0a9d6aaec491"
+API_KEY = "b2d4d0dcae3d71261a4b0a9d6aec491"
 BASE_URL = "https://api.themoviedb.org/3"
 
 class MovieRecommender:
