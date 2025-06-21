@@ -8,16 +8,6 @@ A web app built with **Flask** and the **TMDb API** that allows users to:
 - 🎭 Get suggestions while typing actor names
 - 🌍 Browse by genre
 - 🎥 View movie posters and info
-## 🖼️ Screenshots
-
-### 🎬 Homepage
-![Homepage](images/Screenshot(37).png)
-### 🔍 Genre  Page
-![Genre Page](images/Screenshot(38).png)
-### 🔍 Actor Search Page
-![Actor Page](images/Screenshot(39).png)
-
-
 ---
 
 ## 🚀 How to Run This Project
