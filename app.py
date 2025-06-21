@@ -1399,7 +1399,7 @@ def search_suggestions():
 
 if __name__ == '__main__':
     print("🎬 Starting Multi-Page Movie Recommender...")
-    print("⚠️  Don't forget to replace 'b2d4d0dcae3d71261a4b0a9d6aaec491' with your actual TMDB API key!")
+    print("⚠️  Don't forget to replace 'your_api_key' with your actual TMDB API key!")
     print("🌐 Open your browser and go to:")
     print("   📍 Home Page (Similar Movies): http://localhost:5000")
     print("   📍 Browse Page (Genre Search): http://localhost:5000/browse")
