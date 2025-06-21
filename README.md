@@ -63,3 +63,10 @@ TMDb API – For movie and actor data
 4. Click "Create" to generate your API Key.
 5. You can now use that key in your app to search for movies, actors, genres, posters, etc.
 
+---
+
+## 🙋‍♀️ About Me
+
+Hi! I'm Shreya S, an AI & Data Science Engineering student passionate about coding cool projects in Python and solving real-world problems!
+
+Feel free to ⭐ the repo or fork it!
